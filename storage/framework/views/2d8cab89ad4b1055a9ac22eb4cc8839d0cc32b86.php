@@ -78,7 +78,7 @@
                     <?php endif; ?>
                 </div>
             <?php endif; ?>
-
+<p>test itcentar</p>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel

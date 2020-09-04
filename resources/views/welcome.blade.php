@@ -78,7 +78,7 @@
                     @endauth
                 </div>
             @endif
-
+<p>test itcentar</p>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
