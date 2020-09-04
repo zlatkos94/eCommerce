@@ -83,7 +83,7 @@
                 <p>test dfvk,jhdsg,jmkdshfv,skjmdhfv,sdfjvh</p>
 
                 <p>test dfvk,jhdsg,jmkdshfv,skjmdhfv,sdfjvh</p>
-
+    <p>dobra ta picoka sto si je gledo, treba je isprcit ko kozu</p>
                 <div class="content">
                 <div class="title m-b-md">
                     Laravel
