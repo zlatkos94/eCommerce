@@ -78,8 +78,13 @@
                     @endauth
                 </div>
             @endif
-<p>test itcentar</p>
-            <div class="content">
+<p>test itcentar<
+                <p>test dfvk,jhdsg,jmkdshfv,skjmdhfv,sdfjvh</p>
+                <p>test dfvk,jhdsg,jmkdshfv,skjmdhfv,sdfjvh</p>
+
+                <p>test dfvk,jhdsg,jmkdshfv,skjmdhfv,sdfjvh</p>
+
+                <div class="content">
                 <div class="title m-b-md">
                     Laravel
                 </div>
